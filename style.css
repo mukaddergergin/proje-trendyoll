@@ -1,0 +1,274 @@
+body { 
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  
+
+
+.menu .bi {
+margin-right: 2rem;
+font-size: 25px;
+}
+
+.navbar  .bi {
+color: black;
+font-size: 20px;
+}
+
+.ikonayirmaca {
+    margin-left: 2.5rem;
+}
+
+.navbar img {
+    margin-left: 2rem;
+}
+.navbar .H {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(27, 26, 26);
+    
+    margin-top: 1rem;
+}
+
+.ikon  li {
+  margin: 0.5rem;
+  font-size: 20px;
+}
+
+.ikon ul {
+    display: flex;
+    list-style: none;
+    padding: 1rem;
+    margin-left: 2rem;
+}
+
+.ikon a, .ikon a i {
+    color: black;
+}
+
+
+
+
+.navbar-brand.active {
+    color: rgb(224, 21, 21);
+}
+  
+
+.navbar .Q {
+
+ font-size: 20px;
+ 
+}
+
+
+
+.W  {
+    width: 32rem;
+    height: 3rem;
+    padding-right: 7rem;
+    
+}
+
+.W .btn {
+    background-color: rgb(242, 228, 29);
+   
+}
+
+.navbar {
+ display: flex;
+ flex-direction: column;
+ 
+}
+
+  
+.main{
+    margin-top: 5rem;
+  }
+
+
+  .about {
+    width: 100%;
+    height: 40vh;
+    
+    
+ }
+
+ .about .card {
+    margin-right: 30rem;
+    
+ }
+
+ .card {
+    width: 30%;
+ }
+
+ .cardParent {
+    display: flex;
+    justify-content: space-between;
+    }
+
+
+.kategori {
+    margin-left: 35.5rem;
+    color: orangered;
+    
+}
+
+
+.card-img-top {
+    width: 220%;
+   
+}
+
+
+.card-title {
+    width: 450%;
+}
+
+.btn-b {
+    width: 400%;
+}
+
+.card-border {
+    border: none;
+}
+
+
+.header .card {
+    width: 10000px;
+    margin: auto;
+}
+
+
+
+.image-content {
+    margin-left: 10rem;
+}
+
+.E {
+    color: orangered;
+}
+
+
+.A {
+    border: 1px solid orangered ;
+    background-color: orangered;
+    border-radius: 5px;
+    height: 3rem;
+    color: white;
+    font-style:normal;
+}
+
+.col ul li {
+    list-style: none;
+    margin-top: 0.5rem;
+    color: black;
+    
+}
+
+.my-5  {
+    background-color: rgb(240,240,233);
+}
+
+
+
+.contact .contact {
+    width: 49%;
+    height: 50px;
+}
+
+.contact .conat {
+    width: 99%;
+    height:50px;
+    margin-top: 1.5rem;
+}
+
+
+.contact .cont {
+    width: 99%;
+    height: 200px;
+    margin-top: 1.5rem;
+}
+
+.contact .gönder {
+    margin-top: 1rem;
+    margin-left: 48rem;
+}
+
+.yazo {
+    color: orangered;
+    margin-left: 20rem;
+    margin-bottom: 1.2rem;
+}
+
+.yazi {
+    color: orangered;
+    margin-left: 10rem;
+    margin-bottom: 1.2rem;
+}
+
+.yazü {
+    margin-top: 2rem;
+    color: orangered;
+    margin-left: 10rem;
+    
+}
+
+
+.soşial {
+    font-size: 2rem;
+    margin-left: 10rem;
+    margin-top: 0.8rem;
+}
+
+.soşial .bi {
+    margin-left: 2rem;
+}
+
+
+.Login .login {
+    width: 100%;
+    height: 45px;
+    background-color: rgb(225,225,225);
+    margin-top: 1.5rem;
+    border: none;
+    border-radius: 5px;
+
+}
+
+
+
+.ürün-bilgisi{
+    height: 100px;
+    align-items: center;
+}
+
+.modal-content {
+    width: 200%;
+    
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 375px) and (max-width: 660px) {
+   body {
+    width: 375px;
+    margin: 0 auto;
+    overflow: hidden;
+   }
+   .W {
+    width: 15rem;
+   }
+  }
+  
